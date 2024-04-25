@@ -1,24 +1,22 @@
-<!DOCTYPE html>
+!DOCTYPE html>
 <html lang="pt-br">
-  <head>
-    <meta charset="UTF-8" />
-
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Ednilson</title>
-  </head>
-  <body>
-    <h1>eu sou eu</h1>
-    <h2>gosto de pão</h2>
-    <h3>pão</h3>
-    <img src="![image](https://github.com/Kapu22/site-turma-criativa/assets/163150527/cd5f35c0-3a59-4f24-9edf-aecb933c2b04)
-" width="500" height="300" alt="fusca azul" />
-    <h1>Fusca Amarelo</h1>
-    <h2>Pega 350km por hora, com desconto de 25%</h2>
-    <h3>zerinho também</h3> 
-    <img src="https://i.pinimg.com/originals/17/f6/db/17f6db2772ff49926e5673358e288723.jpg" width="500" height="300">
-    <img src="https://www.google.com/imgres?q=goku&imgurl=https%3A%2F%2Fstatic.wikia.nocookie.net%2Fdragonmaster%2Fimages%2F6%2F63%2FSon_Goku_base_%2528DBS%2529.png%2Frevision%2Flatest%3Fcb%3D20230107010931%26path-prefix%3Dpt-br&imgrefurl=https%3A%2F%2Fdragonmaster.fandom.com%2Fpt-br%2Fwiki%2FSon_Goku_(Dragon_Ball_Super)&docid=25rlQzThLyUkHM&tbnid=
-    iuXtxv5SmrkCyM&vet=12ahUKEwid_c_g-d2FAxVjPbkGHcyeDNkQM3oECFAQAA..i&w=632&h=
-    1264&hcb=2&ved=2ahUKEwid_c_g-d2FAxVjPbkGHcyeDNkQM3oECFAQAA" alt="">
-  </body> 
+</head>
+<body>
+   <h1>Um pouco sobre a minha escola</h1> 
+<img src="/64b5d63a-1163-4f0b-a2de-367e378665a9.jpg" width="500" height="500" alt="escola">
+<h2>Ela está  localiza em Aquidabã, distrito de Marialva. 
+    tem um ótimo ensino, superando várias escolas que conheço
+</h2>
+<h1>sobre mim</h1>
 
-</html>
+<img src="/14554760-foto-negativa-do-perfil-do-homem-silhueta-anonima-cabeca-humana-empresario-trabalhador-
+apoio-ilustracaoial-vetor.jpg" width="450" height="450" alt="escola"/>
+
+<h2>Eu sou Ednilson e estudo nessa escola já faz um anos. Estou
+    segundo ano do ensino médio. E recentemente fiz 16 anos
+</h2>
+</body>

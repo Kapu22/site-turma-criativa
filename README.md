@@ -7,7 +7,7 @@
 </head>
 <body>
    <h1>Um pouco sobre a minha escola</h1> 
-   
+<img src="/5800c504-77ae-4e96-b769-f6427176b583.jpg" alt="">
 <h2>Ela está  localiza em Aquidabã, distrito de Marialva. 
     tem um ótimo ensino, superando várias escolas que conheço
 </h2>
@@ -19,6 +19,5 @@ apoio-ilustracaoial-vetor.jpg" width="450" height="450" alt="escola"/>
 <h2>Eu sou Ednilson e estudo nessa escola já faz um anos. Estou
     segundo ano do ensino médio. E recentemente fiz 16 anos
 </h2>
-
+<img src="" alt="">
 </body>
-</html>

@@ -9,6 +9,7 @@
    <h1>Um pouco sobre a minha escola</h1> 
 <h2>Ela está  localiza em Aquidabã, distrito de Marialva. 
     tem um ótimo ensino, superando várias escolas que conheço
+    <img src="https://www.google.com/imgres?q=escola&imgurl=https%3A%2F%2Fwww.patronatoplbm.com.br%2Fwp-content%2Fuploads%2F2023%2F06%2Fformacao_como-escolher-a-melhor-escola-para-os-filhos.jpg&imgrefurl=https%3A%2F%2Fwww.patronatoplbm.com.br%2Fescolha-da-escola-encontre-a-melhor-opcao%2F&docid=lWLvOcYg00BuOM&tbnid=7uSfOFc06V7OtM&vet=12ahUKEwjftOSF9N2FAxW6F7kGHUnmAmsQM3oECGkQAA..i&w=1600&h=1200&hcb=2&ved=2ahUKEwjftOSF9N2FAxW6F7kGHUnmAmsQM3oECGkQAA" width="450" height="450"
 </h2>
 <h1>sobre mim</h1>
 
